@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @NotLumi
-- 👀 I’m interested in programming games
-- 🌱 I’m currently learning everything about making games :3
-- 📫 How to reach me: lumi.aep
+- 👋 HAI :3, I’m @NotLumi
 - 😄 Pronouns: Any
 
 <!---
