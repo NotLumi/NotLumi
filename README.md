@@ -1,3 +1,4 @@
 - 🩷 HAI :3, I’m @NotLumi
-- 🩷 Interests: Mathematics, Science, Engineering, Video Editing and Games :3
+- 🩷 I am currently making a game <3 If you would like to be a playtester please contact me via discord
+- 🩷 Discord: lumi.aep
 
