@@ -1,2 +1,2 @@
 - 🩷 HAI :3, I’m @NotLumi
-- 🩷 I am currently making a survival game >_<!!! If you would like to be a playtester, please contact me via Discord <3
+- 🩷 I am currently making a game >_<!!! If you would like to be a playtester, please contact me via Discord <3
