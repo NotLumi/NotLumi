@@ -1,1 +1,1 @@
-- 🩷 HAI :3, I’m @NotLumi
+- 🩷 HAI :3, I’m @NotLumi. The projects I'm working on are mostly private, but if you would like to see be a playtester for my game in the future, please let me know :3!!!
