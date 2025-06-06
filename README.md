@@ -1,4 +1,4 @@
-<h1 align="center">Hii! I'm Luminxyia :3 🩷</h1>
+<h1 align="center">Hii! I'm Luminxyia :3 </h1>
 
 ###
 
