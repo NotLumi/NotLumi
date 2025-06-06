@@ -20,6 +20,14 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/notlumi/notlumi/output/snake.svg" alt="Snake animation" />
+<p align="left">Haii :3 I'm  Luminxyia, I am an engineering student who loves to code and edit :3. <br><br>I am also heavily interested in mathematics, and various fields in physics.</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/notlumi/notlumi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/notlumi/notlumi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/notlumi/notlumi/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
