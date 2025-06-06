@@ -26,8 +26,6 @@
 
 ###
 
-<br clear="both">
-
 <div align="left">
   <img src="https://img.shields.io/badge/Godot Engine-478CBF?logo=godotengine&logoColor=white&style=for-the-badge" height="70" alt="godot logo"  />
 </div>
