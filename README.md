@@ -22,7 +22,11 @@
 
 ###
 
-<p align="left">I'm  Luminxyia, I am an engineering student who's into programming and editing.<br><br>I am also making a game, so if you would like to be a play tester, please contact me :3<br><br>I am also heavily interested in mathematics and physics. >:3</p>
+<p align="left">I'm  Luminxyia, I am an engineering student who's into programming, editing, mathematics and physics!
+
+  I am making a game, so if you would like to be a play tester, please fill out my google form :3
+  
+<p align="left">Become a playtester for my game: https://forms.gle/ipxVakM6KyAhwyzQ9 </p>
 
 ###
 
