@@ -24,6 +24,8 @@
 
 <p align="left">I'm  Luminxyia, I am an engineering student who's into programming, editing, mathematics and physics!
 
+  Check out my itch.io: https://luminxyia.itch.io
+  
   I am making a game, so if you would like to be a play tester, please fill out my google form :3
   
 <p align="left">Become a playtester for my game: https://forms.gle/ipxVakM6KyAhwyzQ9 </p>
