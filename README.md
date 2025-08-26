@@ -26,9 +26,9 @@
 
   Check out my itch.io: https://luminxyia.itch.io
   
-  I am making a game, so if you would like to be a play tester, please fill out my google form :3
+  I am making a game called Wolfram, so if you would like to be a play tester, please fill out my google form :3
   
-<p align="left">Become a playtester for my game: https://forms.gle/ipxVakM6KyAhwyzQ9 </p>
+<p align="left">Become a playtester for my game: https://forms.gle/3uWcGGaXG678Yd7q8 </p>
 
 ###
 
